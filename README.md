@@ -26,10 +26,12 @@ STEP6: It cleanes the data by ordering the columns and rows, and write the frame
 # Codebook - What is the meaning of the variables?
 
 Subject number
+
 	The subject identification number
 	Value from 1 to 30
 
 Activity
+
 	Type of activity performed by the subject
 	Possible values:
 		WALKING
